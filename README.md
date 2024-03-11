@@ -5,6 +5,4 @@ Maria Clara
 
 Bruno de Lima
 
-# repositório em conjunto 
-
 Maite Dlapirre 
