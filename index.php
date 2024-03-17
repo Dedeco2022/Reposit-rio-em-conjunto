@@ -29,8 +29,7 @@ echo '<table border=1>
 </tr>';
 
 while ($dados = mysqli_fetch_assoc($resultado)) {
-echo '<tr>';    
-echo '<td>'.$dados['produto'] .'</td>';
+echo '<tr>';   
 echo '<td>'.$dados['quantidade'] .'</td>';
 echo '<td>'.$dados['nome'] .'</td>';
 }
